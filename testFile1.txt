@@ -1,1 +1,3 @@
 My class is a blast!!!
+
+Second Message, needs to commit!
